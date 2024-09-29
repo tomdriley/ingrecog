@@ -1,3 +1,10 @@
+# Copyright (C) 2024 Tom Riley
+#
+# This code is licensed under the GNU AGPL v3.0 or later.
+# See the LICENSE file or <https://www.gnu.org/licenses/>.
+#
+# No warranty is provided. External libraries are under their own licenses.
+
 # Logs
 logs
 *.log
